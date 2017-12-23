@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: br.xyinc.gpsxyinc.domain.CoordinateRepositoryTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 19.238 sec - in br.xyinc.gpsxyinc.domain.CoordinateRepositoryTest

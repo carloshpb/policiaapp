@@ -1,0 +1,5 @@
+br/xyinc/gpsxyinc/domain/Coordinate.class
+br/xyinc/gpsxyinc/resources/DataLoader.class
+br/xyinc/gpsxyinc/rest/GPSRest.class
+br/xyinc/gpsxyinc/GpsxyincApplication.class
+br/xyinc/gpsxyinc/domain/CoordinateRepository.class

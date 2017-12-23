@@ -1,0 +1,7 @@
+package br.policia.app.domain;
+
+public enum TipoOcorrencia {
+
+	ROUBO_VEICULO, ROUBO_OBJ, INJURIA, ACIDENTE_TRANSITO, DESAPARECIMENTO, ENCONTRO_PESSOA_PERDIDA, COMPL_BOLETIM, ACOMP, DEPA;
+
+}

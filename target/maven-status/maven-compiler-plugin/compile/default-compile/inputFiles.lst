@@ -1,0 +1,5 @@
+/home/carlos/Development/ws-spring/gpsxyinc/src/main/java/br/xyinc/gpsxyinc/GpsxyincApplication.java
+/home/carlos/Development/ws-spring/gpsxyinc/src/main/java/br/xyinc/gpsxyinc/domain/Coordinate.java
+/home/carlos/Development/ws-spring/gpsxyinc/src/main/java/br/xyinc/gpsxyinc/domain/CoordinateRepository.java
+/home/carlos/Development/ws-spring/gpsxyinc/src/main/java/br/xyinc/gpsxyinc/resources/DataLoader.java
+/home/carlos/Development/ws-spring/gpsxyinc/src/main/java/br/xyinc/gpsxyinc/rest/GPSRest.java
